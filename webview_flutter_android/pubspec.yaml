@@ -20,7 +20,10 @@ dependencies:
   flutter:
     sdk: flutter
   webview_flutter_platform_interface:
-    path: ../webview_flutter_platform_interface
+    git:
+      url: https://github.com/WxqKb/webview_flutter_enable_transparent.git
+      ref: main
+      path: webview_flutter_platform_interface
 
 dev_dependencies:
   flutter_driver:
