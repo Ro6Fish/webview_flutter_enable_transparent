@@ -225,9 +225,11 @@ packages:
   webview_flutter_platform_interface:
     dependency: "direct main"
     description:
-      path: "../webview_flutter_platform_interface"
-      relative: true
-    source: path
+      path: webview_flutter_platform_interface
+      ref: main
+      resolved-ref: "7a425000caa2dc50dadd0b1e9f80b9b10e2dc6e3"
+      url: "https://github.com/WxqKb/webview_flutter_enable_transparent.git"
+    source: git
     version: "1.2.0"
 sdks:
   dart: ">=2.14.0 <3.0.0"

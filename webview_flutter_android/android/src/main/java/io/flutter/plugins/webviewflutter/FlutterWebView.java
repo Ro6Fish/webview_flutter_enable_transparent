@@ -113,14 +113,13 @@ public class FlutterWebView implements PlatformView, MethodCallHandler {
                         params,
                         new FlutterWebChromeClient(),
                         flutterDownloadListener);
+        webView.getSettings().setMixedContentMode(WebSettings.MIXED_CONTENT_COMPATIBILITY_MODE);
 
         // 设置透明色
         if (params.containsKey("transparentBackground")) {
             boolean transparentBackground = (boolean) params.get("transparentBackground");
             if (transparentBackground) {
-                Log.e("setBackgroundColor", "start>>>");
                 webView.setBackgroundColor(0);
-                Log.e("setBackgroundColor", "设置透明色成功");
             }
         }
 
