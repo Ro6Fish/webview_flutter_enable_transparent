@@ -1,3 +1,8 @@
 .idea
 /webview_flutter/example/build/
 **/.dart_tool/
+**/.packages
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+**/build/
