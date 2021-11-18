@@ -225,23 +225,29 @@ packages:
   webview_flutter_android:
     dependency: "direct main"
     description:
-      path: "../webview_flutter_android"
-      relative: true
-    source: path
+      path: webview_flutter_android
+      ref: main
+      resolved-ref: ea2d25bf460607577acbd8ed0b31f5b577c328a3
+      url: "https://github.com/WxqKb/webview_flutter_enable_transparent.git"
+    source: git
     version: "2.1.0"
   webview_flutter_platform_interface:
     dependency: "direct main"
     description:
-      path: "../webview_flutter_platform_interface"
-      relative: true
-    source: path
+      path: webview_flutter_platform_interface
+      ref: main
+      resolved-ref: ea2d25bf460607577acbd8ed0b31f5b577c328a3
+      url: "https://github.com/WxqKb/webview_flutter_enable_transparent.git"
+    source: git
     version: "1.2.0"
   webview_flutter_wkwebview:
     dependency: "direct main"
     description:
-      path: "../webview_flutter_wkwebview"
-      relative: true
-    source: path
+      path: webview_flutter_wkwebview
+      ref: main
+      resolved-ref: ea2d25bf460607577acbd8ed0b31f5b577c328a3
+      url: "https://github.com/WxqKb/webview_flutter_enable_transparent.git"
+    source: git
     version: "2.1.0"
 sdks:
   dart: ">=2.14.0 <3.0.0"

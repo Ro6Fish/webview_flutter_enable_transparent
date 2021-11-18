@@ -2,5 +2,5 @@
 espresso=/Users/weixiaoqiang/Desktop/flutter/.pub-cache/hosted/pub.flutter-io.cn/espresso-0.1.0+4/
 integration_test=/Users/weixiaoqiang/Desktop/flutter/packages/integration_test/
 webview_flutter=/Users/weixiaoqiang/Desktop/project/webview_flutter_enable_transparent/webview_flutter/
-webview_flutter_android=/Users/weixiaoqiang/Desktop/project/webview_flutter_enable_transparent/webview_flutter_android/
-webview_flutter_wkwebview=/Users/weixiaoqiang/Desktop/project/webview_flutter_enable_transparent/webview_flutter_wkwebview/
+webview_flutter_android=/Users/weixiaoqiang/Desktop/flutter/.pub-cache/git/webview_flutter_enable_transparent-ea2d25bf460607577acbd8ed0b31f5b577c328a3/webview_flutter_android/
+webview_flutter_wkwebview=/Users/weixiaoqiang/Desktop/flutter/.pub-cache/git/webview_flutter_enable_transparent-ea2d25bf460607577acbd8ed0b31f5b577c328a3/webview_flutter_wkwebview/
