@@ -4,6 +4,8 @@
 
 package io.flutter.plugins.webviewflutter;
 
+import static android.webkit.WebSettings.MIXED_CONTENT_ALWAYS_ALLOW;
+
 import android.annotation.TargetApi;
 import android.content.Context;
 import android.hardware.display.DisplayManager;
